@@ -89,9 +89,10 @@ A Full Stack application inspired by real manufacturing workflows.
 ## 📫 Contact
 
 <p>
-<a href=[LinkedIn](https://www.linkedin.com/in/marcus-nascimento-50a0ba1b5/)>
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/marcus-nascimento-50a0ba1b5/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+
 
 <a href="mailto:marcusviniciusrdn@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
