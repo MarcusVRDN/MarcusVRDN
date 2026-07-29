@@ -1,47 +1,99 @@
-```markdown
-# Hi there! 👋 I'm Marcus Nascimento
+<h1 align="center">Hi, I'm Marcus Nascimento 👋</h1>
 
-🎓 **Software Development Student** at FATEC  
-💻 Full Stack Developer in training, passionate about building software that solves real-world problems.
+<p align="center">
+  Software Development Student at <strong>FATEC</strong> • Full Stack Developer in Training
+</p>
+
+<p align="center">
+  Passionate about building software that solves real-world problems.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my skills in Full Stack Development
-- 🧠 Interested in Software Architecture and Clean Code
-- ⚙️ Building projects with modern web technologies
-- 📚 Always learning something new
+- 🎓 Software Development Student at **FATEC**
+- 💻 Full Stack Developer focused on modern web applications
+- 📚 Currently studying **Software Architecture**, **Data Structures** and **Backend Development**
+- ⚡ I enjoy turning real business problems into software solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Languages
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js" />
+</p>
 
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frontend
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman" />
+</p>
 
 ---
 
-## 🎯 Goal
+## 📌 Featured Project
 
-I'm looking for an opportunity as a **Full Stack Developer**, where I can learn, solve real-world problems and build impactful software.
+### 🏭 Production Control System
 
-📫 **Let's connect!**
-- LinkedIn: linkedin.com/in/marcus-nascimento-50a0ba1b5
-- Email: marcusviniciusrdn@gmail.com
+A Full Stack application inspired by real manufacturing workflows.
+
+**Main Technologies**
+
+- React
+- TypeScript
+- Node.js
+- Express
+- Prisma ORM
+- PostgreSQL
+
+**Main Features**
+
+- Customer Management
+- Parts Management
+- Orders
+- Production Orders
+- Dashboard *(coming soon)*
+
+---
+
+## 🎯 Current Goals
+
+- 📈 Become a Full Stack Developer
+- 🏗️ Build high-quality software
+- 📖 Continuously improve software engineering skills
+
+---
+
+## 📫 Contact
+
+<p>
+<a href="www.linkedin.com/in/marcus-nascimento-50a0ba1b5">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:marcusviniciusrdn@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
